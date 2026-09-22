@@ -1,4 +1,4 @@
-## Hi there 👋
+2nd year cs undergrad @ university of warwick
 
 <!--
 **gagann06/gagann06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
